@@ -9,20 +9,20 @@ Hi there, I'm Carlos!<br><br>I'm 20 years, mechanical technician and full stack 
 <details>
 <summary>⚡ Main Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=CarlosMartel7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </details>
 
 <details>
 <summary>⚡ Contributions</summary>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosMartel7&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosMartel7&theme=dark&hide_border=false)<br/>
 </details>
 
 
 <details>
 <summary>⚡ Language Data</summary>
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMartel7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </details>
 
 ## 🏆 GitHub Trophies
