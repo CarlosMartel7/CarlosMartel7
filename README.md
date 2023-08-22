@@ -9,7 +9,7 @@ Hi there, I'm Carlos!<br><br>I'm 20 years, mechanical technician and full stack 
 <details>
 <summary>⚡ Main Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-master-carlosmartel7.vercel.app/api?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </details>
 
 <details>
@@ -18,11 +18,12 @@ Hi there, I'm Carlos!<br><br>I'm 20 years, mechanical technician and full stack 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosMartel7&theme=dark&hide_border=false)<br/>
 </details>
 
-
 <details>
 <summary>⚡ Language Data</summary>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats-git-master-carlosmartel7.vercel.app/api/top-langs/?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </details>
 
 ## 🏆 GitHub Trophies
