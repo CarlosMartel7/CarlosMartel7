@@ -21,7 +21,7 @@ Hi there, I'm Carlos!<br><br>I'm 20 years, mechanical technician and full stack 
 <details>
 <summary>⚡ Language Data</summary>
 
-![](https://github-readme-stats-git-master-carlosmartel7.vercel.app/api/top-langs/?username=CarlosMartel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://api.githubtrends.io/user/svg/CarlosMartel7/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </details>
