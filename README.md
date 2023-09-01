@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Carlos!<br><br>I'm 20 years, mechanical technician and full stack developer, specialized in ReactJs and VueJs for front-end applications, PHP and NodeJs for the beck-end. I've knowledge on other languages and tools as well, such as: Python, Django, GreenSock Animation and many more.<br><br>🦾 I’m currently working on <a href="https://tiadoidioma.com.br">Tia do Idioma</a><br>🎓 I'm currently learning about AI<br>
+Hi there, I'm Carlos!<br><br>I'm 20 years, mechanical technician and full stack developer, specialized in ReactJs and VueJs for front-end applications, PHP and NodeJs for the beck-end. I've knowledge on other languages and tools as well, such as: Python, Django, GreenSock Animation and many more.<br><br>🦾 I’m currently working on <a href="https://tiadoidioma.com.br">Chat Learning</a><br>🎓 I'm currently learning about AI<br>
 
 
 # 💻 Tech Stack:
